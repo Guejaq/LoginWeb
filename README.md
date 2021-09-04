@@ -1,8 +1,10 @@
 # LoginWeb
-Login con presentacion, que muestra el sector de envío de mensajes, q
-ue permite escribir el mensaje, poner su nombre e email para enviarlo.
+Login con presentacion, que muestra el sector de envío de mensajes.
 
 ![1](https://user-images.githubusercontent.com/87548801/132109214-478f42e0-4be0-40c0-aae8-c5bdd2f8dfa3.png)
+
+Permite escribir el mensaje, poner su nombre e email para enviarlo.
+
 ![2](https://user-images.githubusercontent.com/87548801/132109216-b0bbf9a1-6bca-4128-9f7f-05ed1c80d94f.png)
 
 # Diseño:
